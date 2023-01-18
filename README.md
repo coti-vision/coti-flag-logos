@@ -1,2 +1,2 @@
 # coti-flag-logos
-Country flag based COTI logos
+Country specific logos created by Stralaen at coti.vision for the COTI community.
